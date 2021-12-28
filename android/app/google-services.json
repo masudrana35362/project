@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "922470409309",
+    "project_id": "rannabaribd-bf5ee",
+    "storage_bucket": "rannabaribd-bf5ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922470409309:android:d3a702f9bf6fa3d81999b4",
+        "android_client_info": {
+          "package_name": "com.rannabaribd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922470409309-err5575gp9e3qe97mpabd0r1cju5g15e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rannabaribd",
+            "certificate_hash": "c32d7e9f030572b0ad006e0c12cccb19c949f1bd"
+          }
+        },
+        {
+          "client_id": "922470409309-fkuj1p1acgk7s29f3fu1f0c54otkai1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rannabaribd",
+            "certificate_hash": "e803a87149f5a427ae522305f8eec2115bf9cacf"
+          }
+        },
+        {
+          "client_id": "922470409309-dr1qa2ojdg7f2in8juo5i1a2j9fjn3cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi3xuhzfTCq85WN0oeEX-lvXgtj_3Rr4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922470409309-dr1qa2ojdg7f2in8juo5i1a2j9fjn3cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922470409309:android:d76edb83f45ce5311999b4",
+        "android_client_info": {
+          "package_name": "com.rannabaribd.deliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922470409309-t2s892iua4fqcfmup7it3r5aof7gtm50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rannabaribd.deliveryboy",
+            "certificate_hash": "c32d7e9f030572b0ad006e0c12cccb19c949f1bd"
+          }
+        },
+        {
+          "client_id": "922470409309-dr1qa2ojdg7f2in8juo5i1a2j9fjn3cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi3xuhzfTCq85WN0oeEX-lvXgtj_3Rr4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922470409309-dr1qa2ojdg7f2in8juo5i1a2j9fjn3cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922470409309:android:902098cbffe46a221999b4",
+        "android_client_info": {
+          "package_name": "com.rannabaribd.owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922470409309-n06otbbh6ni5buagv9qk597lkaceenta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rannabaribd.owner",
+            "certificate_hash": "c32d7e9f030572b0ad006e0c12cccb19c949f1bd"
+          }
+        },
+        {
+          "client_id": "922470409309-dr1qa2ojdg7f2in8juo5i1a2j9fjn3cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi3xuhzfTCq85WN0oeEX-lvXgtj_3Rr4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922470409309-dr1qa2ojdg7f2in8juo5i1a2j9fjn3cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

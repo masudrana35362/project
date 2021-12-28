@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922470409309",
+    "project_id": "rannabaribd-bf5ee",
+    "storage_bucket": "rannabaribd-bf5ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922470409309:android:d3a702f9bf6fa3d81999b4",
+        "android_client_info": {
+          "package_name": "com.rannabaribd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922470409309-dr1qa2ojdg7f2in8juo5i1a2j9fjn3cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi3xuhzfTCq85WN0oeEX-lvXgtj_3Rr4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922470409309-dr1qa2ojdg7f2in8juo5i1a2j9fjn3cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
